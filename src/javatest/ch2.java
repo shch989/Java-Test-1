@@ -46,7 +46,7 @@ public class ch2 {
 	}
 
 
-	public void Info(int id, String name, String description, String test) {
+	public void Info() {
 		
 		System.out.println("id : " + id);
 		System.out.println("name : " + name);
