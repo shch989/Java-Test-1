@@ -19,7 +19,7 @@ public class ch2Test {
 		System.out.println("=======================================");
 		
 		Lee.printMember();
-		Lee.Info(7, "이순신", "조선 중기의 무신", "1545년 4월 28일, 한성부");
+		Lee.Info();
 		
 	}
 
